@@ -113,7 +113,7 @@
     content: '';
     width: 16px;
     height: 16px;
-    background: url("./img/play-circle.png");
+    background: url("../img/play-circle.png");
     vertical-align: top;
     margin: 11px 2px 0 0;
 }
@@ -155,7 +155,7 @@
     height: 13px;
     margin-left: 5px;
     vertical-align: top;
-    background: url('./img/Star\ 1.png');
+    background: url('../img/Star\ 1.png');
 }
 .list-movieInfo .list-info div{
     display: inline-block;
@@ -226,16 +226,16 @@
     overflow: hidden;
 }
 .cont-company .list-sns .link-instagram{
-    background: url("./img/instagram.png");
+    background: url("../img/instagram.png");
     background-repeat: no-repeat;
     background-size: 24px;
 }
 .cont-company .list-sns .link-facebook{
-    background: url("./img/facebook.png");
+    background: url("../img/facebook.png");
     background-repeat: no-repeat;
 }
 .cont-company .list-sns .link-twitter{
-    background: url("./img/twitter.png");
+    background: url("../img/twitter.png");
     background-repeat: no-repeat;
     background-size: 24px;
 }
